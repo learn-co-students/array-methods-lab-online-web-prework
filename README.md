@@ -42,7 +42,7 @@ Run your test suite again and you should be passing the first one.
 
 ### `#using_sort`
 
-This method takes in an argument of an array and should return the array, sorted. Use the `#sort` method on that array to get this test passing. 
+This method takes in an argument of an array and should return the array, sorted in ascending order. Use the `#sort` method on that array to get this test passing. 
 
 ### `#using_reverse`
 
