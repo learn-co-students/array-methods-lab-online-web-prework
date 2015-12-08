@@ -6,8 +6,8 @@ In this lab, you will call methods on arrays, like `#sort` and `#include?`.
 
 ## Objectives
 
-1. Determine if an array contains a particular element the using `#include?` method.
-2. Sort an array using the `#sort`.
+1. Determine if an array contains a particular element using the `#include?` method.
+2. Sort an array using the `#sort` method.
 3. Reverse the contents of an array using the `#reverse` method.
 4. Find the first and last elements in an array using the `#first` and `#last` methods. 
 5. Determine the size, or length, of an array using the `#size` method.
@@ -60,5 +60,3 @@ This method takes in an argument of an array and should return the last element 
 
 This method takes in an argument of an array and should return the size, or length, of that array. Use the `#size` method on that array to get this test passing. 
 
-
-<a href='https://learn.co/lessons/array-methods-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
