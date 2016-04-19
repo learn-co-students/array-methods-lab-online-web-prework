@@ -18,7 +18,7 @@ In this lab, we will be coding the solutions for each of the above tasks in the 
 
 Each method takes in an argument of an array. You will call the appropriate method, such as `#include?` or `#first`, on that array to get the test passing. 
 
-This lab is test-driven so run `learn --fail-fast` to get started and use the test output to guide you. 
+This lab is test-driven so run `learn` to get started and use the test output to guide you. 
 
 We'll do the first one together:
 
@@ -62,3 +62,5 @@ This method takes in an argument of an array and should return the size, or leng
 
 -<a href='https://learn.co/lessons/array-methods-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
 
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/array-methods-lab'>Array Methods Lab</a> on Learn.co and start learning to code for free.</p>
