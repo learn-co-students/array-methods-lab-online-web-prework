@@ -21,3 +21,5 @@ end
 def using_size(array)
   array.size
 end
+
+# testing git commit and push with VSCode
