@@ -3,6 +3,7 @@ array.include?(element)
 end
 
 def using_sort(array)
+  array.sort?(array)
 
 end
 
