@@ -1,4 +1,5 @@
 def using_include(array, element)
+arry.include ? ("walls", "tables", "chair")
 
 end
 
