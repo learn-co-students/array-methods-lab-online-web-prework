@@ -25,5 +25,5 @@ end
 
 # Take an argument of an array and return the size, or length, of the array
 def using_size(array)
-  array.length
+  array.size
 end
