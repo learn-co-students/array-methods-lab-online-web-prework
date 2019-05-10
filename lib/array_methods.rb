@@ -1,8 +1,8 @@
-def using_include(array, element)
-
+def Arsenal_Legends = ["Bergkamp","Henry"]
+Arsenal_Legends.include ["Bergkamp"]
 end
 
-def using_sort(array)
+def Arsenal_legends.
 
 end
 
