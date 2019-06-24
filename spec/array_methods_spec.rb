@@ -1,4 +1,5 @@
 require 'spec_helper'
+require_relative '../lib/array_methods.rb'
 
 describe "#using_include" do 
   it "takes in arguments of an array and an element and returns true if the array includes that element, false if it does not." do 
